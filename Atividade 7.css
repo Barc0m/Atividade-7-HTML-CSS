@@ -1,0 +1,78 @@
+
+.imga
+{
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color:   #191970;
+    transition: 1s all;
+    display: inline;
+}
+.imga:hover
+{
+    transform: scale(0.8);
+    border-color: greenyellow;
+}
+body
+{
+    background-color: white;
+}
+header 
+{
+    display: flex;
+    text-align: center;
+}
+.titulo
+{
+    text-align: center;
+}
+.imge
+{
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color:   #191970;
+    display: inline;
+    transition: 1s all;
+}
+.imge:hover
+{
+        transform: scale(0.8);
+        border-color: greenyellow;
+
+}
+.imgi
+{
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color:   #191970;
+    transition: 1s all;
+    display: inline;
+}
+.imgi:hover
+{
+    transform: scale(0.8);
+    border-color: greenyellow;
+}
+.imgu
+{
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color:   #191970;
+    transition: 1s all;
+    display: inline;
+}
+.imgu:hover
+{
+    transform: scale(0.8);
+    border-color: greenyellow;
+}
+h1
+{
+    margin-left: 400px;
+}
+
+
+	
